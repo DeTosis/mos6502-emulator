@@ -1,0 +1,6 @@
+.[Vv]scode
+[Bb]uild
+
+*.exe
+*.o
+*.obj
